@@ -1,10 +1,15 @@
 Assignment 2 :- 
  
 1 . Create a Google Compute Instance Templates 
+
 2 . Machine Type should be e2-micro
+
 3 . Boot Disk image should be :-  Debian GNU/Linux 11 (bullseye)
+
 4 . Network and subnet can be chosen by you based on what was created in previous session
+
 5 . Create a instance from the template
+
 
 
 ![1-createtemplate](https://user-images.githubusercontent.com/26878098/226101211-2c0f7ca4-9030-47f7-adde-099401465661.jpg)
