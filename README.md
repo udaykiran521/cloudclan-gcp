@@ -58,3 +58,21 @@ Assignment 4 :-
  
  
 
+
+
+
+
+
+
+ 
+Assignment 4 :- 
+ 
+1 . Create a Google Cloud Storage Bucket (Name can be chosen by you) in single region
+2 . Create a folder and Upload some files into the bucket (i.e any text files)
+3 . Enable Object versioning on the bucket
+4 . Access control for the bucket should be set to Uniform
+ 
+ 
+ 
+ 
+
