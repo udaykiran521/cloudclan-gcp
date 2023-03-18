@@ -1,14 +1,6 @@
 # cloudclan-gcp
 This repository consists of GCP assignments from Cloudclan
 
-GCP Assignment: - 
- 
-How will you submit the assignment: - 
-1 . Create the Resources and take screenshot based on what is asked
-2 . Create a public github repo 
-3 . Upload all the images into the same (Note :- Group the images logically based on assignment numbers and in different folders and in a sequence so that I can take a look in clear way)
-4 . Commit all the changes 
-5 . You should have received a Submission document excel where you can add the repo link
  
  
 Assignment 1 :- 
