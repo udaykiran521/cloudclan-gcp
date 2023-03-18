@@ -3,10 +3,11 @@ Assignment 1
 1 . Create a Google Compute Engine 
 
 2. Machine Type should be e2-micro
-3. 
+
 3 . Boot Disk image should be :-  Debian GNU/Linux 11 (bullseye)
 
 4 . Add a startup script to install nginx , below script can be used 
+    
     sudo apt-get update 
     
     sudo apt install nginx -y 
@@ -15,7 +16,7 @@ Assignment 1
 
 6 . Take the image of the browser , where nginx page is loaded by clicking on external IP
 
-7. Reserve the external IP so that IP is not changed when VM is restarted
+7 .  Reserve the external IP so that IP is not changed when VM is restarted
 
 
 
